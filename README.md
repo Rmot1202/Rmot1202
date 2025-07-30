@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Raven Mott</h1>
+<h1 align="center"> Hi, I'm Raven Mott</h1>
 
 <p align="center">
   <img src="https://www.vsu.edu/files/images/logos/vsu-since-1882-logo-multi-colored.svg" alt="VSU Logo" width="300">
@@ -6,18 +6,18 @@
 
 <p align="center">
   <strong>Computer Science Student | Researcher | Developer | Future Cybersecurity & AI Specialist</strong><br>
-  📍 Petersburg, VA | 🎓 Virginia State University (Honors, Class of 2026)  
+  Petersburg, VA |  Virginia State University (Honors, Class of 2026)  
 </p>
 
 ---
 
-## 💡 About Me
+##  About Me
 
 I'm an Honors Computer Science major at **Virginia State University** with a passion for applying machine learning, data visualization, and cybersecurity to solve real-world problems. I’ve conducted neutron data research, built faculty analytics dashboards, and designed AI-powered web applications — all while maintaining a 3.7 GPA and contributing to campus leadership.
 
 ---
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
 - **Neutron Event Detection Research** using Support Vector Machines and K-means Clustering.
 - **Urban Heat Island Mitigation** through geospatial analytics in R.
@@ -26,7 +26,7 @@ I'm an Honors Computer Science major at **Virginia State University** with a pas
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Languages:** Python, R, Java, C++, SQL, HTML, CSS, JavaScript  
 **Tools & Libraries:** Flask, Bootstrap, scikit-learn, Tableau, iGraph, ggplot2, SQLAlchemy  
@@ -34,7 +34,7 @@ I'm an Honors Computer Science major at **Virginia State University** with a pas
 
 ---
 
-## 📁 Projects
+##  Projects
 
 | Project | Description |
 |--------|-------------|
@@ -45,24 +45,24 @@ I'm an Honors Computer Science major at **Virginia State University** with a pas
 
 ---
 
-## 🧪 Research Highlights
+##  Research Highlights
 
-### 🧬 **SVM for Neutron Event Classification**  
+###  **SVM for Neutron Event Classification**  
 Virginia State University Nuclear Science Lab  
 - Achieved ~95% accuracy on real MAME scintillator data  
 - Maximized F1-score (0.93) and AUC (0.96)  
 
-### 📊 **K-Means for Simulated Neutron Data**  
+###  **K-Means for Simulated Neutron Data**  
 - Improved clustering separation with Elbow & Silhouette methods  
 - Visualized k=3 clusters with score of 0.78
 
-### 🌡️ **Urban Heat Island Mapping (Petersburg, VA)**  
+###  **Urban Heat Island Mapping (Petersburg, VA)**  
 - Correlated tree cover with heat index (R² = 0.60)  
 - Delivered policy recommendations to local planning teams
 
 ---
 
-## 🏆 Involvement
+##  Involvement
 
 - **VSU Tour Guide:** Led 50+ campus tours, engaging 1,000+ prospective students.
 - **Apple Pathways Scholar (2024):** Trained in advanced algorithms, resume building, and software practices.
@@ -70,11 +70,11 @@ Virginia State University Nuclear Science Lab
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/raven1202)
-- 🧠 [GitHub](https://github.com/Rmot1202)
-- 🎓 [Virginia State University](https://www.vsu.edu)
+-  [LinkedIn](https://www.linkedin.com/in/raven1202)
+-  [GitHub](https://github.com/Rmot1202)
+-  [Virginia State University](https://www.vsu.edu)
 
 ---
 
