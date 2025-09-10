@@ -28,37 +28,32 @@ I’ve conducted neutron detection research, built climate–agriculture predict
 
 ---
 
-## ⚡ Skills & Tools
+## ⚡ Skills Applied Through Projects
 
-### 💻 Programming & Development  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+### 💻 Programming & Development
+- **Python** → [Malware Analysis System](https://github.com/Rmot1202/malware-analysis), [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction)  
+- **R** → [Shiny Faculty Dashboard](https://github.com/Rmot1202), Urban Heat Island Analysis (DSPG Internship)  
+- **Java** → Coursework projects (Data Structures, OOP assignments)  
+- **C++** → Algorithm design & systems coursework (simulation and data structures)  
+- **Kotlin** → **Gestura Mobile App** (ASL Smart Mask companion, Android Studio)  
+- **SQL** → [AI Food Navigation App](https://rmot1202.pythonanywhere.com/), Survey databases for model training  
 
-### 🌐 Web & Visualization  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+### 🌐 Web & Visualization
+- **HTML / CSS / JavaScript / Bootstrap** → [AI Food Navigation App](https://rmot1202.pythonanywhere.com/)  
+- **Flask** → [AI Food Navigation App](https://rmot1202.pythonanywhere.com/)  
+- **Tableau / Power BI** → Faculty equity dashboards, internship data analysis projects  
 
-### 🤖 Machine Learning & Data Science  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+### 🤖 Machine Learning & Data Science
+- **scikit-learn** → Neutron Event Detection (SVM, Logistic Regression, Clustering)  
+- **XGBoost / Gradient Boosting** → [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction)  
+- **LSTM / Deep Learning** → [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction)  
+- **K-means Clustering** → Neutron Data Analysis (simulated datasets)  
+- **Shiny Apps (R)** → [Shiny Faculty Dashboard](https://github.com/Rmot1202)  
 
-### 🔐 Cybersecurity & Forensics  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
-![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=windows&logoColor=white)  
-![FTK Imager](https://img.shields.io/badge/FTK-Imager-orange?style=for-the-badge)  
+### 🔐 Cybersecurity & Forensics
+- **Cisco Packet Tracer** → Cybersecurity Risk & Network Analysis (SRESFS Internship)  
+- **Wireshark** → Network traffic monitoring (lab & internship exercises)  
+- **Autopsy, FTK Imager** → Digital Forensics Essentials Labs (disk, memory, log analysis)  
 
 ---
 
@@ -70,6 +65,7 @@ I’ve conducted neutron detection research, built climate–agriculture predict
 | [AI Food Navigation App](https://rmot1202.pythonanywhere.com/) | Flask app with an OpenAI-powered chatbot that helps users explore meals and submit feedback. |
 | [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction) | Predicts U.S. crop yields based on meteorological data with Random Forest and LSTM models. |
 | [Shiny Faculty Dashboard](https://github.com/Rmot1202) | Visualizes academic collaboration networks using centrality measures and R Shiny. |
+| **Gestura Mobile App** | Kotlin-based Android app for ASL dataset collection & translation (companion to LinguaLift Smart Mask). |
 
 ---
 
@@ -123,3 +119,4 @@ I’ve conducted neutron detection research, built climate–agriculture predict
 ---
 
 <p align="center"><em>“Striving to innovate where data meets impact.”</em></p>
+
