@@ -13,7 +13,7 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm an Honors Computer Science major at **Virginia State University** (GPA: 3.7) with a passion for **machine learning, data visualization, and cybersecurity**.  
+I'm an Honors Computer Science major at **Virginia State University** (GPA: 3.7) with a passion for **machine learning, AI, and cybersecurity**.  
 I’ve conducted neutron detection research, built climate–agriculture prediction models, and developed AI-powered applications — all while contributing to campus leadership and outreach.  
 
 ---
@@ -24,7 +24,7 @@ I’ve conducted neutron detection research, built climate–agriculture predict
 - **Climate & Agricultural Yield Prediction** with deep learning on USDA + WRF-HRRR datasets.  
 - **Urban Heat Island Mitigation** through geospatial analytics in R.  
 - **Cybersecurity Risk & Forensics** with Cisco Packet Tracer, Autopsy, and FTK Imager.  
-- **Smart Accessibility Devices** and AI-powered apps for inclusive communication.  
+- **AI-powered apps**for inclusive communication.  
 
 ---
 
@@ -57,7 +57,6 @@ I’ve conducted neutron detection research, built climate–agriculture predict
 ### 🌐 Web & Visualization
 - **HTML / CSS / JavaScript / Bootstrap** → [AI Food Navigation App](https://rmot1202.pythonanywhere.com/)  
 - **Flask** → [AI Food Navigation App](https://rmot1202.pythonanywhere.com/)  
-- **Tableau / Power BI** → Faculty equity dashboards & DSPG analysis projects  
 
 ### 🤖 Machine Learning & Data Science
 - **scikit-learn** → Neutron Event Detection (SVM, Logistic Regression, Clustering)  
@@ -81,7 +80,7 @@ I’ve conducted neutron detection research, built climate–agriculture predict
 | [AI Food Navigation App](https://rmot1202.pythonanywhere.com/) | Flask app with an OpenAI-powered chatbot that helps users explore meals and submit feedback. |
 | [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction) | Predicts U.S. crop yields using meteorological data with Random Forest, XGBoost, and LSTM. |
 | [Shiny Faculty Dashboard](https://github.com/Rmot1202) | Visualizes academic collaboration networks using centrality measures in R Shiny. |
-| **Gestura Mobile App** | Kotlin-based Android app for ASL dataset collection & translation (companion to LinguaLift Smart Mask). |
+| **Gestura Mobile App** | Kotlin-based Android app for ASL dataset collection & translation. |
 
 ---
 
