@@ -1,136 +1,137 @@
-<h1 align="center">Hi, I'm Raven Mott</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://www.vsu.edu/files/images/logos/vsu-since-1882-logo-multi-colored.svg" alt="VSU Logo" width="300">
-</p>
+# Hi, I'm **Raven Mott**
 
-<p align="center">
-  <strong>Computer Science Student | Researcher | Developer | Future Cybersecurity & AI Specialist</strong><br>
-  Petersburg, VA · Virginia State University (Honors, Class of 2026)  
-</p>
+**Honors CS @ Virginia State University (’26)**
+**Machine Learning • Cybersecurity/DFIR • Applied Research**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raven1202-blue?logo=linkedin)](https://www.linkedin.com/in/raven1202)
+[![GitHub](https://img.shields.io/badge/GitHub-Rmot1202-black?logo=github)](https://github.com/Rmot1202)
+![Location](https://img.shields.io/badge/Petersburg%2C%20VA-orange)
+![GPA](https://img.shields.io/badge/GPA-3.7-success)
 
-## 👨🏾‍💻 About Me
+<img src="https://www.vsu.edu/files/images/logos/vsu-since-1882-logo-multi-colored.svg" alt="VSU Logo" width="260" />
 
-I'm an Honors Computer Science major at **Virginia State University** (GPA: 3.7) with a passion for **machine learning, AI, and cybersecurity**.  
-I’ve conducted neutron detection research, built climate–agriculture prediction models, and developed AI-powered applications — all while contributing to campus leadership and outreach.  
+</div>
 
 ---
 
-## 🔭 What I'm Working On
+## 👋 About Me
 
-- **Neutron Event Detection Research** using Support Vector Machines.  
-- **Climate & Agricultural Yield Prediction** with deep learning on USDA + WRF-HRRR datasets.  
-- **Urban Heat Island Mitigation** through geospatial analytics in R.  
-- **Cybersecurity Risk & Forensics** with Cisco Packet Tracer, Autopsy, and FTK Imager.  
-- **AI-powered apps**for inclusive communication.  
+I turn messy, real‑world data into **secure, usable tools**. My recent work spans SVM‑based **neutron event classification**, LSTM/XGBoost‑powered **climate→yield forecasting**, **geospatial** urban heat analytics in R, and **DFIR** workflows with Autopsy/FTK. I ship end‑to‑end: data engineering → modeling → visualization → deployment—with a bias for reproducibility and clear communication.
 
----
-
-## 🏢 Work & Research Experience
-
-- 🎓 [**MS-CC Undergraduate Summer Research Symposium (2025)**](https://ms-cc.org/2025-ms-cc-undergraduate-summer-research-symposium/)  
-  Presented my summer research in **climate-driven agricultural yield prediction** at the annual symposium.  
-
-- 🔬 [**MS-CC Undergraduate Summer Research Internship**](https://ms-cc.org/about-us/undergraduate-summer-research-internship/)  
-  10-week NSF-funded internship at Fisk University & Meharry Medical College. Built machine learning models (Random Forest, XGBoost, LSTM) for predicting crop yields under climate stress.  
-
-- 📊 [**VSU Data Science for the Public Good (DSPG)**](https://www.vsu.edu/research/dspg-recruitment.php)  
-  Conducted **Urban Heat Island analysis** for Petersburg, VA, finding a negative correlation (R² = 0.60) between tree cover and heat index.  
-
-- 🌱 [**Savannah River Environmental Sciences Field Station (SRESFS)**](https://sresfs.net/)  
-  Worked on **cybersecurity risk assessments** and forensic investigations. Built secure VLAN-based networks in Cisco Packet Tracer and completed Digital Forensics Essentials labs.  
+* 🎯 **Focus:** Applied ML (time series, tabular), secure systems, digital forensics
+* 🧪 **Method:** Clean code, versioned experiments, meaningful visualizations
+* 💬 **Impact:** Translate technical results for non‑technical decision‑makers
 
 ---
 
-## ⚡ Skills Applied Through Projects
+## 🔭 What I’m Working On
 
-### 💻 Programming & Development
-- **Python** → [Malware Analysis System](https://github.com/Rmot1202/malware-analysis), [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction)  
-- **R** → [Shiny Faculty Dashboard](https://github.com/Rmot1202), Urban Heat Island Analysis (DSPG)  
-- **Java** → Coursework projects (Data Structures, OOP assignments)  
-- **C++** → Systems & algorithms coursework  
-- **Kotlin** → **Gestura Mobile App** (ASL Smart Mask companion, Android Studio)  
-- **SQL** → [AI Food Navigation App](https://rmot1202.pythonanywhere.com/), Firebase survey datasets  
+**Modeling • Forecasting • Analyzing • Securing**
 
-### 🌐 Web & Visualization
-- **HTML / CSS / JavaScript / Bootstrap** → [AI Food Navigation App](https://rmot1202.pythonanywhere.com/)  
-- **Flask** → [AI Food Navigation App](https://rmot1202.pythonanywhere.com/)  
+* Inclusive AI Apps (*Gestura*: Android/Kotlin ASL data collection & assistive comms)
+* Neutron Event Detection (SVM classification + clustering workflows)
+* Climate→Yield Forecasting (USDA + WRF‑HRRR features via LSTM/XGBoost)
+* Urban Heat Island Analytics (R + geospatial pipelines for Petersburg, VA)
+* Cybersecurity & Forensics (Wireshark packet analysis; Autopsy/FTK triage)
 
-### 🤖 Machine Learning & Data Science
-- **scikit-learn** → Neutron Event Detection (SVM, Logistic Regression, Clustering)  
-- **XGBoost / Gradient Boosting** → [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction)  
-- **LSTM** → [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction)  
-- **K-means Clustering** → Neutron Data Analysis (simulated datasets)  
-- **Shiny (R)** → [Shiny Faculty Dashboard](https://github.com/Rmot1202)  
-
-### 🔐 Cybersecurity & Forensics
-- **Cisco Packet Tracer** → Cybersecurity Risk & Network Analysis (SRESFS)  
-- **Wireshark** → Network monitoring exercises  
-- **Autopsy, FTK Imager** → Digital Forensics Essentials labs (disk, memory, log analysis)  
 
 ---
 
-## 🚀 Projects
+## 🏢 Experience & Programs
 
-| Project | Description |
-|---------|-------------|
-| [Malware Analysis System](https://github.com/Rmot1202/malware-analysis) | Multi-node system using Docker and VirusTotal to analyze malware in sandbox environments. |
-| [AI Food Navigation App](https://rmot1202.pythonanywhere.com/) | Flask app with an OpenAI-powered chatbot that helps users explore meals and submit feedback. |
-| [Climate Yield Predictor](https://github.com/Rmot1202/climate-yield-prediction) | Predicts U.S. crop yields using meteorological data with Random Forest, XGBoost, and LSTM. |
-| [Shiny Faculty Dashboard](https://github.com/Rmot1202) | Visualizes academic collaboration networks using centrality measures in R Shiny. |
-| **Gestura Mobile App** | Kotlin-based Android app for ASL dataset collection & translation. |
+* **MS‑CC Undergraduate Summer Research Symposium (2025)** — Presented climate‑driven yield prediction findings.
+* **MS‑CC Undergraduate Summer Research Internship** — 10‑week NSF‑funded program (Fisk & Meharry). RF/XGBoost/LSTM for crop yield under climate stress.
+* **VSU Data Science for the Public Good (DSPG)** — Urban Heat analysis in Petersburg, VA; **R² ≈ 0.60** negative correlation between tree cover and heat index.
+* **Savannah River Environmental Sciences Field Station (SRESFS)** — Cyber risk assessments, VLAN network design (Cisco Packet Tracer), DFIR labs.
+
+---
+
+## 🧰 Tech Stack
+
+* **Languages:** Python • R • Kotlin • Java • C++ • SQL • HTML/CSS/JS
+* **ML/DS:** scikit‑learn • XGBoost • TensorFlow/PyTorch (LSTM/TFLite) • Pandas • NumPy
+* **Viz:** Matplotlib • Plotly • ggplot2 • R Shiny
+* **Cyber/Net:** Wireshark • Cisco Packet Tracer • Autopsy • FTK Imager
+* **Platforms/Dev:** Docker • Git/GitHub • Flask • Firebase • Android Studio • FastAPI
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                                                                                 | What it does                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Malware Analysis System**                                                                                             | Multi‑node Docker pipeline + VirusTotal integration to analyze samples in a sandbox and return execution logs & scan results. |
+| **Tech:** Python • Docker • FastAPI • VT API                                                                            |                                                                                                                               |
+| **Repo:** [https://github.com/Rmot1202/malware-analysis](https://github.com/Rmot1202/malware-analysis)                  |                                                                                                                               |
+| **Climate Yield Predictor**                                                                                             | Merges USDA yields (2017–2022) with WRF‑HRRR simulations; Random Forest/XGBoost/LSTM models and evaluation suite.             |
+| **Tech:** Python • Pandas • XGBoost • LSTM                                                                              |                                                                                                                               |
+| **Repo:** [https://github.com/Rmot1202/climate-yield-prediction](https://github.com/Rmot1202/climate-yield-prediction)  |                                                                                                                               |
+| **AI Food Navigation (Flask)**                                                                                          | Website with api food items. Chatbot UX that helps users explore meals and submit feedback.                                   |
+| **Tech:** Flask • SQLite • Jinja                                                                                        |                                                                                                                               |
+| **Live:** [https://rmot1202.pythonanywhere.com/](https://rmot1202.pythonanywhere.com/)                                  |                                                                                                                               |          
+| **Gestura**                                                                                                             | Companion app for ASL data collection and translation; Firebase auth, contributor dashboard, model update workflow.           |
+| **Tech:** Python • CNN • Kotlin • FireBase                                                                              |                                                                                                                               |
+| **Repo:** [https://github.com/Gestura-Senior-Project/Gestura.git](https://github.com/Gestura-Senior-Project/Gestura.git)|                                                                                                                               |
+                                                                                     
 
 ---
 
 ## 🧪 Research Highlights
 
-**Support Vector Machines for Neutron Event Classification**  
-- Achieved ~95% accuracy on scintillator detector data.  
-- Optimized hyperparameters, reaching F1 = 0.93, AUC = 0.96.  
+**Neutron Event Classification (SVM)**
 
-**Deep Learning for Climate & Agricultural Yield Prediction**  
-- Merged USDA crop yield data (2017–2022) with WRF-HRRR simulations.  
-- LSTM achieved **R² > 0.93**, reducing RMSE significantly compared to traditional models.  
+* ~**95% accuracy** on scintillator datasets; tuned for **F1 ≈ 0.93** and **AUC ≈ 0.96**.
 
-**Urban Heat Island Analysis (Petersburg, VA)**  
-- Found negative correlation (R² = 0.60) between tree cover and heat distribution.  
-- Provided actionable insights for city planning and environmental justice.  
+**Deep Learning for Climate→Yield**
 
-**Cybersecurity Risk & Network Analysis**  
-- Designed secure VLAN-based networks with firewalls and IDS.  
-- Completed Digital Forensics Essentials labs (disk, memory, and log analysis).  
+* Integrated **USDA (2017–2022)** with **WRF‑HRRR** features; **LSTM R² > 0.93**, reduced RMSE vs. classical baselines.
+
+**Urban Heat: Petersburg, VA**
+
+* Negative correlation (**R² ≈ 0.60**) between tree cover and heat distribution; policy‑oriented insights for environmental justice.
+
+**Cyber Risk & Forensics**
+
+* Segmented VLAN designs + firewall/IDS considerations; disk/memory/log analysis with **Autopsy** and **FTK Imager**.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub by the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rmot1202&show_icons=true&theme=radical" alt="Raven's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rmot1202&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmot1202&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rmot1202&theme=radical" alt="Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmot1202&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
 ## 🌍 Involvement
 
-- **VSU Tour Guide:** Led 50+ tours, engaging 1,000+ prospective students.  
-- **Apple Pathways Scholar (2024):** Completed training in algorithms, software practices, and professional development.  
-- **DEA Mentorship Program (2023):** Built workplace professionalism, ethical judgment, and teamwork skills.  
+* **VSU Tour Guide:** Led **50+** tours engaging **1,000+** prospective students.
+* **Apple Pathways Scholar (2024):** Training in algorithms, software practices, and professional skills.
+* **DEA Mentorship Program (2023):** Workplace professionalism, ethics, and teamwork.
+* **Digital Navigator (2025):** Empowering residents to get online, use their devices confidently, and access work, school, and healthcare.
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Open To
 
-- [LinkedIn](https://www.linkedin.com/in/raven1202)  
-- [GitHub](https://github.com/Rmot1202)  
-- [Virginia State University](https://www.vsu.edu)  
+* **New‑Grad 2026**: Data Science • ML Engineering • Cybersecurity/DFIR
+* **Research collaborations**: time series, remote sensing, geospatial ML
+
+If you think I’d be a fit, let’s connect.
 
 ---
 
-<p align="center"><em>“Striving to innovate where data meets impact.”</em></p>
+## 🔗 Connect
+
+* **LinkedIn:** [https://www.linkedin.com/in/raven1202](https://www.linkedin.com/in/raven1202)
+* **GitHub:** [https://github.com/Rmot1202](https://github.com/Rmot1202)
+
+<div align="center">
+
+*“Striving to innovate where data meets impact.”*
+
+</div>
