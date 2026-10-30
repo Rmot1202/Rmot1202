@@ -2,13 +2,13 @@
 
 # Hi, I'm **Raven Mott**
 
-**Honors CS @ Virginia State University (’26)**
-**Machine Learning • Cybersecurity/DFIR • Applied Research**
+**B.S. Computer Science, Magna Cum Laude @ Virginia State University ('26) • M.S. Computer Science (expected '27)**
+**Digital Systems Intern @ CCAM • Computer Vision • Machine Learning • Cybersecurity/DFIR • Industrial Systems**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rmot1202.github.io-purple)](https://rmot1202.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raven1202-blue?logo=linkedin)](https://www.linkedin.com/in/raven1202)
 [![GitHub](https://img.shields.io/badge/GitHub-Rmot1202-black?logo=github)](https://github.com/Rmot1202)
-![Location](https://img.shields.io/badge/Petersburg%2C%20VA-orange)
-![GPA](https://img.shields.io/badge/GPA-3.7-success)
+![Location](https://img.shields.io/badge/Virginia-orange)
 
 <img src="https://www.vsu.edu/files/images/logos/vsu-since-1882-logo-multi-colored.svg" alt="VSU Logo" width="260" />
 
@@ -16,49 +16,47 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I turn messy, real‑world data into **secure, usable tools**. My recent work spans SVM‑based **neutron event classification**, LSTM/XGBoost‑powered **climate→yield forecasting**, **geospatial** urban heat analytics in R, and **DFIR** workflows with Autopsy/FTK. I ship end‑to‑end: data engineering → modeling → visualization → deployment—with a bias for reproducibility and clear communication.
+I build systems that connect hardware, data, and software. As a **Digital Systems Intern at the Commonwealth Center for Advanced Manufacturing (CCAM)**, I develop Python and C# tools for manufacturing dashboards, sensor data acquisition, Raspberry Pi integration, and computer-vision workflows. My background also spans applied ML research (time series, classification) and DFIR with Autopsy, FTK, and Bulk Extractor.
 
-* 🎯 **Focus:** Applied ML (time series, tabular), secure systems, digital forensics
-* 🧪 **Method:** Clean code, versioned experiments, meaningful visualizations
-* 💬 **Impact:** Translate technical results for non‑technical decision‑makers
-
----
-
-## 🔭 What I’m Working On
-
-**Modeling • Forecasting • Analyzing • Securing**
-
-* Inclusive AI Apps (*Gestura*: Android/Kotlin ASL data collection & assistive comms)
-* Neutron Event Detection (SVM classification + clustering workflows)
-* Climate→Yield Forecasting (USDA + WRF‑HRRR features via LSTM/XGBoost)
-* Urban Heat Island Analytics (R + geospatial pipelines for Petersburg, VA)
-* Cybersecurity & Forensics (Wireshark packet analysis; Autopsy/FTK triage)
-
+* **Focus:** Computer vision, cyber-physical integrity, industrial data systems, applied ML
+* **Method:** Clean code, versioned experiments, reproducible pipelines, clear documentation
+* **Impact:** Translate technical results for engineers, researchers, and decision-makers
 
 ---
 
-## 🏢 Experience & Programs
+## What I'm Working On
 
-* **MS‑CC Undergraduate Summer Research Symposium (2025)** — Presented climate‑driven yield prediction findings.
-* **MS‑CC Undergraduate Summer Research Internship** — 10‑week NSF‑funded program (Fisk & Meharry). RF/XGBoost/LSTM for crop yield under climate stress.
+* **Camera-Based G-code Integrity (M.S. Thesis)** — One-camera reconstruction of 3D-printer toolpaths, compared against authorized G-code to detect tampering; side-view X/Y calibration with a top-view alternate path.
+* **Ergonomic Pose Analysis** — Camera pose overlays with rule-based ergonomic verification for manufacturing workstations.
+* **Thermocouple Dashboard** — Raspberry Pi + MCC DAQ temperature monitoring with live visualization.
+* **Research Topic Network** — Interactive research-area map with tap-to-drill-down navigation.
+
+---
+
+## Experience & Programs
+
+* **Commonwealth Center for Advanced Manufacturing (CCAM)** — Digital Systems Intern: C#/Python systems, PostgreSQL (pgAdmin), secure data transfer, industrial communication, and vision tooling.
+* **Teaching Assistant, Programming I (Python)** — Virginia State University.
+* **MS-CC Student Ambassador**; **MS-CC Undergraduate Summer Research Internship & Symposium (2025)** — RF/XGBoost/LSTM crop-yield prediction under climate stress.
 * **VSU Data Science for the Public Good (DSPG)** — Urban Heat analysis in Petersburg, VA; **R² ≈ 0.60** negative correlation between tree cover and heat index.
 * **Savannah River Environmental Sciences Field Station (SRESFS)** — Cyber risk assessments, VLAN network design (Cisco Packet Tracer), DFIR labs.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-* **Languages:** Python • R • Kotlin • Java • C++ • SQL • HTML/CSS/JS
+* **Languages:** Python • C# • R • Kotlin • Java • C++ • SQL • HTML/CSS/JS
 * **ML/DS:** scikit‑learn • XGBoost • TensorFlow/PyTorch (LSTM/TFLite) • Pandas • NumPy
+* **Vision/Industrial:** OpenCV • pose estimation • Raspberry Pi • MCC DAQ • PLC/industrial protocols
 * **Viz:** Matplotlib • Plotly • ggplot2 • R Shiny
-* **Cyber/Net:** Wireshark • Cisco Packet Tracer • Autopsy • FTK Imager
-* **Platforms/Dev:** Docker • Git/GitHub • Flask • Firebase • Android Studio • FastAPI
+* **Cyber/Net:** Wireshark • Cisco Packet Tracer • Autopsy • FTK Imager • Bulk Extractor
+* **Platforms/Dev:** Visual Studio/VS Code • PostgreSQL/pgAdmin • WinSCP • Linux • Docker • Git/GitHub • Flask • Firebase • Android Studio • FastAPI
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project                                                                                                                     | What it does                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------      | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +76,7 @@ I turn messy, real‑world data into **secure, usable tools**. My recent work sp
 
 ---
 
-## 🧪 Research Highlights
+## Research Highlights
 
 **Neutron Event Classification (SVM)**
 
@@ -98,7 +96,7 @@ I turn messy, real‑world data into **secure, usable tools**. My recent work sp
 
 ---
 
-## 📈 GitHub by the Numbers
+## GitHub by the Numbers
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rmot1202&theme=radical" alt="Streak" height="150"/>
@@ -107,8 +105,9 @@ I turn messy, real‑world data into **secure, usable tools**. My recent work sp
 
 ---
 
-## 🌍 Involvement
+## Involvement
 
+* **Hackathons (2025):** 2nd place, MS-CC Hackathon • 3rd place, VSU Hackathon
 * **VSU Tour Guide:** Led **50+** tours engaging **1,000+** prospective students.
 * **Apple Pathways Scholar (2024):** Training in algorithms, software practices, and professional skills.
 * **DEA Mentorship Program (2023):** Workplace professionalism, ethics, and teamwork.
@@ -116,18 +115,19 @@ I turn messy, real‑world data into **secure, usable tools**. My recent work sp
 
 ---
 
-## 🤝 Open To
+## Open To
 
-* **New‑Grad 2026**: Data Science • ML Engineering • Cybersecurity/DFIR
-* **Research collaborations**: time series, remote sensing, geospatial ML
+* **Roles:** Software/Digital Systems Engineering • Computer Vision • ML Engineering • Cybersecurity/DFIR
+* **Research collaborations:** cyber-physical security, computer vision, industrial automation, time series
 
 If you think I’d be a fit, let’s connect.
 
 ---
 
-## 🔗 Connect
+## Connect
 
 * **LinkedIn:** [https://www.linkedin.com/in/raven1202](https://www.linkedin.com/in/raven1202)
+* **Portfolio:** [https://rmot1202.github.io/](https://rmot1202.github.io/)
 * **GitHub:** [https://github.com/Rmot1202](https://github.com/Rmot1202)
 
 <div align="center">
